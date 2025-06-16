@@ -1,4 +1,4 @@
-# CodePortfolio (Game Development Student)
+# About Me (Game Development Student)
 <h2 align="left"> 
   Hello My Name is Ain Pajulas! 🇵🇭
 <br><br>
